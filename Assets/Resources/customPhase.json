@@ -1,0 +1,26 @@
+{
+	"glasswareStart" : "true",
+	"compoundFormula" : "NaCl",
+	"volume" : "200.0",
+	"molarity" : "1.0",
+	"objects" : [
+	{
+		"typeOfStep" : "1",
+		"option1" : "Sal",
+		"option2" : "Base",
+		"option3" : "Ácido",
+		"option4" : "Orgânico",
+		"option5" : "Etc",
+		"correctAnswer" : "1"
+	},
+	{
+		"typeOfStep" : "2",
+		"compoundFormula" : "NaCl"
+	},
+	{
+		"typeOfStep" : "3",
+		"compoundFormula" : "NaCl",
+		"molarity" : "1.0",
+		"maxError" : "0.2"
+	}]
+}
